@@ -1,0 +1,60 @@
+
+
+
+p{
+	font-family: Geneva;
+}
+
+
+h2{
+
+	font-size: 70px;
+}
+.bren{
+	margin-top: 10vh;
+}
+.para{
+	margin-top: 5vh;
+
+
+}
+button{
+	height: 50px;
+	width: 30%;
+	border-radius: 60px;
+	background-color: black;
+	color: white;
+	border: solid 2px black;
+}
+.grent{
+	color: grey;
+}
+h3{
+	font-size: 50px;
+}
+/*.btn{
+
+}*/
+.perp{
+	margin-top: 10vh;
+
+}
+.tets{
+	background:linear-gradient(to top, midnightblue,black);
+	color:white;
+	margin-top: 10vh;
+
+	
+}
+.byte{
+	font-size: 50px;
+	margin-left: 10vh;
+
+}
+.stet{
+	margin-left: 10vh;
+	margin-bottom: 10vh;
+}
+.footer{
+	margin-top: 10vh;
+}
